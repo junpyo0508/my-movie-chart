@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f3d2a0c1.css",
+    "main.js": "/static/js/main.af899bdb.js",
+    "static/js/453.89a6e67b.chunk.js": "/static/js/453.89a6e67b.chunk.js",
+    "static/media/SpoqaHanSansNeo-Regular.woff": "/static/media/SpoqaHanSansNeo-Regular.4af655e2b88a518cc85c.woff",
+    "static/media/Kokila Bold.ttf": "/static/media/Kokila Bold.2b7504ffac578bac184b.ttf",
+    "static/media/image.jpg": "/static/media/image.c93b7504c285f78e5792.jpg",
+    "index.html": "/index.html",
+    "main.f3d2a0c1.css.map": "/static/css/main.f3d2a0c1.css.map",
+    "main.af899bdb.js.map": "/static/js/main.af899bdb.js.map",
+    "453.89a6e67b.chunk.js.map": "/static/js/453.89a6e67b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3d2a0c1.css",
+    "static/js/main.af899bdb.js"
+  ]
+}
