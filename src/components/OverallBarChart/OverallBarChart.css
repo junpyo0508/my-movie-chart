@@ -1,0 +1,61 @@
+
+.chart-group .x-axis path,
+.chart-group .x-axis line,
+.chart-group .y-axis path,
+.chart-group .y-axis line {
+  stroke: #908b8b;
+  
+}
+
+.chart-group .x-axis text,
+.chart-group .y-axis text {
+  font-size: 14px;
+  font-weight:400;
+}
+
+.overall-bar-chart {
+  width: 450px;
+  max-height: 200px; 
+  overflow-y: auto; 
+  margin-bottom: 10px;
+  position: relative; 
+}
+
+.overall-bar-chart svg {
+  width: 100%;
+  height: auto;
+  justify-content: center;
+}
+
+.overall-bar-chart::-webkit-scrollbar {
+  width: 10px;
+}
+
+.overall-bar-chart::-webkit-scrollbar-thumb {
+  height: 10%;
+  background: #838385;
+  border-radius: 10px;
+  margin-left: -50px; 
+}
+
+.overall-bar-chart::-webkit-scrollbar-track {
+  background: rgba(90, 104, 123, 0.1);
+  margin-left: -5px;
+}
+
+.overalltooltip {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  pointer-events: none;
+  font-size: 12px;
+  white-space: nowrap;
+  z-index: 1000; 
+  opacity: 0; 
+  transition: opacity 0.2s; 
+  font-weight: bold;
+}
+
+
